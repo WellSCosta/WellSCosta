@@ -12,8 +12,7 @@ Cursos que me deram uma base sólida em Java, Spring Boot, banco de dados como M
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellscosta&repo=cadastro-de-clientes.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellscosta&repo=cadastro-de-clientes)](https://github.com/anuraghazra/github-readme-stats)
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellscosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
