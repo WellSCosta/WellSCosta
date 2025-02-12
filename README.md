@@ -101,18 +101,23 @@ Hoje, estou explorando mais sobre Cloud, Arquiteturas de Microsserviços, Docker
 <br/>
 <br/>
 
-### Detalhes
+### Estatísticas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellscosta&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=wellscosta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellscosta&repo=cadastro-de-clientes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellscosta&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Contatos
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellscosta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/wellington-santos-backend-java/)
