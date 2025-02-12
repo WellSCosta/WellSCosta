@@ -118,6 +118,8 @@ Hoje, estou explorando mais sobre Cloud, Arquiteturas de Microsserviços, Docker
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellscosta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+  
 </p>
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/wellington-santos-backend-java/)
