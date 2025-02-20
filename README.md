@@ -1,15 +1,18 @@
+---
 # Wellington Costa
 
 **`Desenvolvedor Back-end`**
+
 
 Me chamo Wellington, tenho 24 anos e estou migrando para área de tecnologia, me especializando por meio de cursos e muitos projetos práticos! Nessa jornada, os principais cursos que realizei foram o de Back-end Java na EBAC e também o programa ONE - Oracle Next Education.
 Cursos que me deram uma base sólida em Java, Spring Boot, banco de dados como MongoDB, Postgres, MySQL, entre outras tecnologias.
 Hoje, estou explorando mais sobre Cloud, Arquiteturas de Microsserviços, Docker e metodologias como SOLID, com o objetivo de criar sistemas mais escaláveis e eficientes.
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-30A3DC?style=for-the-badge)](https://www.linkedin.com/in/wellington-santos-backend-java/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:wellscostaofc@gmail.com)
 
-### Linguagens e Tecnologias
-          
+### Habilidades
+
 <img 
     align="left" 
     alt="JAVA"
