@@ -4,7 +4,11 @@
 **`Desenvolvedor Back-end`**
 
 
-Sou Wellington, tenho 24 anos e estou migrando para a área de tecnologia. Curso Análise e Desenvolvimento de Sistemas na Estácio e me especializo por meio de cursos e projetos práticos. Concluí o Back-end Java da EBAC e o programa ONE da Oracle, que me deram base sólida em Java, Spring Boot e bancos de dados como MongoDB, Postgres e MySQL. Atualmente, aprofundo meus estudos de migração de sistemas monólitos para microsserviços, Docker e sistemas de mensageria como RabbitMQ e Kafka, buscando desenvolver sistemas escaláveis e eficientes.
+Desenvolvedor Backend focado no ecossistema Java (Java 21, Spring Boot 3.x) com experiência prática na construção de microsserviços escaláveis, arquiteturas orientadas a eventos e integração com IA generativa.
+
+Meu foco não é apenas escrever código, mas resolver problemas de negócios utilizando boas práticas (Clean Code, SOLID, testes automatizados com JUnit/Mockito). Tenho vivência prática no desenvolvimento de sistemas de alta volumetria utilizando mensageria com Apache Kafka (incluindo resiliência com DLQ), caching com Redis, e deployments containerizados com Docker.
+
+Em meus projetos recentes (como o SmartStock AI e The Pulse), apliquei conceitos avançados como rastreabilidade distribuída (Correlation IDs) e Locks Otimistas (JPA) para garantir integridade de dados em ambientes concorrentes. Busco sempre construir APIs seguras, bem documentadas (Swagger/OpenAPI) e orientadas a performance.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-30A3DC?style=for-the-badge)](https://www.linkedin.com/in/wellington-santos-backend-java/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:wellscostaofc@gmail.com)
